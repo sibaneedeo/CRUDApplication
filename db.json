@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "firstName": "sunanda",
+      "lastName": "Dash",
+      "email": "sundeo@gmail.com",
+      "mobile": "86755875",
+      "salary": "50000"
+    },
+    {
+      "id": 9,
+      "firstName": "asish",
+      "lastName": "panda",
+      "email": "jhjh@gmail.com",
+      "mobile": "8775769869",
+      "salary": "30000"
+    },
+    {
+      "id": 10,
+      "firstName": "sibanee",
+      "lastName": "panda",
+      "email": "panda@gmail.com",
+      "mobile": "87756778975",
+      "salary": "100000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
